@@ -1,33 +1,23 @@
 ---
 title: Ice Cream
-subtitle: Graphic Design
 layout: default
-modal-id: 6
-date: 2014-07-15
+modal-id: 1
 thumbnail: ice-cream-thumbnail.jpg 
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+alt: Homemade Ice Cream
 ---
-Hey here are some.
+By The Scoop
+1. Kiddie
+2. 1 Scoop
+3. 2 Scoop
+4. Pint
+5. Quart
+*½ Gallon, 1 Gallon, 2.5 Gallon can be special ordered.
+      b. Milkshakes
+1. 20oz Milkshake
+2. 24oz Milkshake 
+      c. Sundaes
+  1. 1 Scoop 2 Toppings
+  2. 2 Scoop 3 Toppings
+      d. Toppings
 
-lines of code.
 
-that should
-
-be 
-
-ice. cream.
-
-prices
-
-like
-
-$3.99 for this
-
-and
-
-$8.12 for
-
-that.
