@@ -862,3 +862,25 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
+
+/*Nate's Magic*/
+@media (min-width: 991px){
+  .navbar-default.navbar-shrink .navbar-brand {
+    margin-top:-24px;
+  }
+  .navbar-default.navbar-shrink{
+    padding:20px 0 !important;
+  }
+}
+@media (max-width: 991px){
+  .navbar-brand img{
+    width:170px;
+    margin-top:-10px;
+  }
+}
+
+@media (max-width: 768px){
+  .navbar-brand img{
+    width:178px;
+  }
+}
