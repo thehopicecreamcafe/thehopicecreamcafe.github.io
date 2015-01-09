@@ -1,0 +1,33 @@
+---
+title: Ice Cream
+subtitle: Graphic Design
+layout: default
+modal-id: 6
+date: 2014-07-15
+thumbnail: ice-cream-thumbnail.jpg 
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+---
+Hey here are some.
+
+lines of code.
+
+that should
+
+be 
+
+ice. cream.
+
+prices
+
+like
+
+$3.99 for this
+
+and
+
+$8.12 for
+
+that.
