@@ -15,7 +15,7 @@ color:
 # Team names, titles and social links
 people:
 - name: The Hop Merrimon
-  pic: 1
+  pic: the-hop-merrimon
   position: The Original Gangsta
   social:
     - title: twitter
@@ -26,8 +26,8 @@ people:
       url: http://instagram.com/hopicecream 
 
 - name: The Hop West
-  pic: 2
-  position: West Side Playa
+  pic: the-hop-west 
+  position: West Side Playa 
   social:
     - title: twitter
       url: https://twitter.com/thehopwest 
@@ -37,7 +37,7 @@ people:
       url: http://instagram.com/thehopwest
 
 - name: The Hop Creamery
-  pic: 3
+  pic: the-hop-creamery 
   position: Where Magic Gets Made
   social:
     - title: twitter
