@@ -9,7 +9,7 @@ description: "Scooping ice cream in Asheville, North Carolina since 1978.  The h
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: ee347f
-  secondary: 96d9f3  
+  secondary: ee347f  
   secondary-dark: 333
 
 # Team names, titles and social links
