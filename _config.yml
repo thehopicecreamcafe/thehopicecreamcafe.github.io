@@ -19,46 +19,44 @@ people:
   position: The Original Gangsta
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/hopicecream 
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/TheHopIceCreamCafe 
+    - title: instagram
+      url: http://instagram.com/hopicecream 
 
 - name: The Hop West
   pic: 2
   position: West Side Playa
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/thehopwest 
     - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+      url: https://twitter.com/thehopwest 
+    - title: instagram
+      url: http://instagram.com/thehopwest
 
 - name: The Hop Creamery
   pic: 3
   position: Where Magic Gets Made
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://twitter.com/hopicecreamery 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: tumblr
+    url: http://hopicecream.tumblr.com/ 
+  - title: youtube
+    url: https://www.youtube.com/user/TheHopIceCream 
+  - title: pinterest
+    url: https://www.pinterest.com/hopicecream/homemade-ice-cream/ 
+  - title: instagram
+    url: http://instagram.com/hopicecream 
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/hopicecream 
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/TheHopIceCreamCafe 
 
 # Postal address (add as many lines as necessary)
 address:
