@@ -24,4 +24,3 @@ alt: Specialty Items
 **Hot Fudge Cake** - Chocolate Cake, 3 Scoops of Ice Cream, Homemade Hot Fudge, Whipped Cream and Cherry\\
 **Big Banana** - Sliced Banana, 3 Scoops of Ice Cream, 3 Toppings, Whipped Cream and Cherry\\
 **German Chocolate Cake** - Chocolate Cake, 3 Scoops of Ice Cream, Homemade Chocolate Syrup, Coconut Flakes, Pecans, Whipped Cream and Cherry
-
