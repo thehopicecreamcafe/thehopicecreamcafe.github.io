@@ -7,11 +7,11 @@ alt: Specialty Items
 ---
 ###ICE CREAM CAKES
 *Dairy/Vegan*\\
-4” - Serves 1-2 $7/$8.50\\
-8” - Serves 8-10 $22/$25\\
-9” - Serves 10-12 $25/$38\\
-10” - Serves 12-15 $28/$31\\
-¼ Sheet - Serves 15-20 $30/$33\\
+**4”** - Serves 1-2 $7/$8.50\\
+**8”** - Serves 8-10 $22/$25\\
+**9”** - Serves 10-12 $25/$38\\
+**10”** - Serves 12-15 $28/$31\\
+**1/4 Sheet** - Serves 15-20 $30/$33
 
 ###SPECIALTY MILKSHAKES $5.00/$5.60 (regular/large)
 **Jitterbug** - Any flavor Ice Cream with 1 or 2 Espresso Shots\\

@@ -6,21 +6,21 @@ thumbnail: coffee-thumbnail.jpg
 alt: Coffee
 ---
 *Single/Double or 12oz/16oz/20oz*\\
-Espresso Float $3.50/$3.95\\
-Hot Chocolate Float $3.50/$3.95/$4.45\\
-Jitterbug Milkshake $5.00/$5.60\\
-Bean Werks Drip coffee $1.75/$1.95/$2.25\\
-Espresso $1.00/$1.50\\
-Americano $1.75/$1.95/$2.25\\
-Latte $2.75/$2.99/$3.30\\
-Mocha $3.15/$3.40/$3.70\\
-Flavored Latte $3.15/$3.40/$3.70\\
-Appalacian Chai Latte $2.75/$2.99/$3.30\\
-Float $4.20\\
-Fizz $4.20\\
-Smoothies $4.20\\
-Blue Sky Soda $2.00\\
-Blue Moon Water $2.00\\
+**Espresso Float** $3.50/$3.95\\
+**Hot Chocolate Float** $3.50/$3.95/$4.45\\
+**Jitterbug Milkshake** $5.00/$5.60\\
+**Bean Werks Drip coffee** $1.75/$1.95/$2.25\\
+**Espresso** $1.00/$1.50\\
+**Americano** $1.75/$1.95/$2.25\\
+**Latte** $2.75/$2.99/$3.30\\
+**Mocha** $3.15/$3.40/$3.70\\
+**Flavored Latte** $3.15/$3.40/$3.70\\
+**Appalacian Chai Latte** $2.75/$2.99/$3.30\\
+**Float** $4.20\\
+**Fizz** $4.20\\
+**Smoothies** $4.20\\
+**Blue Sky Soda** $2.00\\
+**Blue Moon Water** $2.00\\
 *$0.75 per extra shot*\\
 *$0.50 for Vegan Soy, Almond or Cocount Milk*\\
 *$0.50 for Flavor Syrup*
