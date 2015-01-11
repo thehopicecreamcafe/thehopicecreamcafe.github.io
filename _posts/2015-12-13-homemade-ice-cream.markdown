@@ -1,7 +1,7 @@
 ---
-title: Ice Cream
+title: Homemade Ice Cream
 layout: default
-modal-id: 1
+modal-id: Ice-cream 
 thumbnail: ice-cream-thumbnail.jpg 
 alt: Homemade Ice Cream
 ---

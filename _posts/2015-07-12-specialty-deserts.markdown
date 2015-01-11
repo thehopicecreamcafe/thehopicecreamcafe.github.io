@@ -1,7 +1,7 @@
 ---
-title: Specialty Items
+title: Specialty Deserts
 layout: default
-modal-id: 4
+modal-id: Specialty-deserts 
 thumbnail: specialty-items-thumbnail.jpg
 alt: Specialty Items 
 ---
