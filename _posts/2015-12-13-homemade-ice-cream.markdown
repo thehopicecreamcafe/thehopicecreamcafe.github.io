@@ -21,4 +21,4 @@ Quart $9.00/$9.50\\
 ###Sundaes
 1 Scoop 2 Toppings $4.05/$4.70\\
 2 Scoop 3 Toppings $5.00/$5.35\\
-*Toppings $.75 sprinkles $.30*
+*Toppings $.75, Sprinkles $.30*

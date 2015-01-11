@@ -6,8 +6,8 @@ thumbnail: coffee-thumbnail.jpg
 alt: Coffee
 ---
 *Single/Double or 12oz/16oz/20oz*\\
-ESPRESSO FLOAT $3.50/$3.95\\
-HOT CHOCOLATE FLOAT $3.50/$3.95/$4.45\\
+Espresso Float $3.50/$3.95\\
+Hot Chocolate Float $3.50/$3.95/$4.45\\
 JITTERBUG MILKSHAKE $5.00/$5.60\\
 BEAN WERKS DRIP COFFEE $1.75/$1.95/$2.25\\
 ESPRESSO $1.00/$1.50\\
