@@ -18,6 +18,5 @@ modal-id: Birthday-parties
 **Package 2** - All features of Pkg 1 + Ice Cream Sundae Bar $75 + $4/person\\
 **Package 3** - All features of Pkg 2 + Invitations, The Jolly Balloonsmiths and Face Painting. 10 or fewer participants $215 + $4 each additional\\
 **Package 4** - All features of Pkg 3 + Games and Hop Prizes. 10 or fewer participants $245 + $4 each additional\\
-*Substitute ¼ Sheet Ice Cream Cake for Sundae Bar $30+tax*\\
+*Substitute 1/4 Sheet Ice Cream Cake for Sundae Bar $30+tax*\\
 *Custom packages available*\\
-*Parties*
