@@ -1,5 +1,5 @@
 ---
-title: Coffee Fusion Items and Drinks
+title: Coffee Drinks and Treats
 layout: default
 modal-id: Coffee 
 thumbnail: coffee-thumbnail.jpg
@@ -9,13 +9,18 @@ alt: Coffee
 **Espresso Float** $3.50/$3.95\\
 **Hot Chocolate Float** $3.50/$3.95/$4.45\\
 **Jitterbug Milkshake** $5.00/$5.60\\
-**Bean Werks Drip coffee** $1.75/$1.95/$2.25\\
+**The Hop Chiller** $4.05/$4.65\\
+**Homemade Hot Chocolate** $2.00/$2.50/$3.00\\
+**Bean Werks French Roast Coffee** $1.75/$1.95/$2.25\\
+**Bean Werks Espresso** $1.00/$1.50\\
 **Espresso** $1.00/$1.50\\
 **Americano** $1.75/$1.95/$2.25\\
 **Latte** $2.75/$2.99/$3.30\\
 **Mocha** $3.15/$3.40/$3.70\\
 **Flavored Latte** $3.15/$3.40/$3.70\\
 **Appalacian Chai Latte** $2.75/$2.99/$3.30\\
+**Tea** $1.00/$1.25/$1.50\\
+**Soda & Ice Cream Float/Fizz** $4.20\\
 **Float** $4.20\\
 **Fizz** $4.20\\
 **Smoothies** $4.20\\
@@ -23,4 +28,5 @@ alt: Coffee
 **Blue Moon Water** $2.00\\
 *$0.75 per extra shot*\\
 *$0.50 for Vegan Soy, Almond or Cocount Milk*\\
-*$0.50 for Flavor Syrup*
+*$0.50 for Flavor Syrup*\\
+*All espresso drinks served hot or iced*

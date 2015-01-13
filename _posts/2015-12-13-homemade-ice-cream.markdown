@@ -12,6 +12,8 @@ alt: Homemade Ice Cream
 **2 Scoop** $4.00/$4.20\\
 **Pint** $5.00/$5.50\\
 **Quart** $9.00/$9.50\\
+**Homemade Waffle Cones** $0.80 extra\\
+**Gluten Free Cones** $0.50 extra\\
 *1/2 Gallon, 1 Gallon, 2.5 Gallon can be special ordered.*
           
 ###Milkshakes 
@@ -21,4 +23,10 @@ alt: Homemade Ice Cream
 ###Sundaes
 **1 Scoop 2 Toppings** $4.05/$4.70\\
 **2 Scoop 3 Toppings** $5.00/$5.35\\
-*Toppings $.75, Sprinkles $.30*
+*Toppings $.75, Sprinkles $.30*\\
+**Includes homemade Dairy or Vegan Whipped Cream and Cherry.**\\
+**Sprinkles** $.30\\
+**Toppings** $.75 - Butterscotch, Homemade Hot Fudge, Caramel, Homemade Chocolate Syrup, Peanuts, Oreo, Banana, Coconut, Cherries, Pecans, Pineapple, Reese’s, Butterfinger, Marshmallows, Wet Walnuts, Gummy Bears, Chocolate Chips, Strawberries.
+
+<a href="#menuCoffee" data-toggle="modal">Coffee Drinks and Treats</a>, <a href="#menuSpecialty-deserts" data-toggle="modal">Speciality Deserts</a>
+
