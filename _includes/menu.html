@@ -7,7 +7,7 @@
                 </div>
             </div>
             <div class="row">
-            {% for post in site.posts %}
+            {% for post in site.posts limit:3%}
                 <div class="col-md-4 portfolio-item">
                     <a href="#menu{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                         <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive" alt="">
