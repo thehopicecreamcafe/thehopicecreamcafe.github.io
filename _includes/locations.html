@@ -1,4 +1,4 @@
-<!-- Team Section -->
+<!-- Location Section -->
     <section id="locations" class="bg-light-gray">
         <div class="container">
             <div class="row">
@@ -7,14 +7,18 @@
                 </div>
             </div>
             <div class="row">
-                {% for member in site.people %}
+                {% for location in site.data.locations %}
                 <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
-                        <h4>{{ member.name }}</h4>
-                        <p class="text-muted">{{ member.position }}</p>
+                    <div class="location">
+                        <img src="img/locations/{{ location.pic }}.jpg" class="img-responsive img-circle" alt="">
+                        <h4>{{ location.name }}</h4>
+                        <p class="text-muted">
+                          {{ location.hours }}<br>
+                          {{ location.directions }}<br>
+                          {{ location.description }}<br>
+                        </p>
                         <ul class="list-inline social-buttons">
-                            {% for network in member.social %}
+                            {% for network in location.social %}
                             <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
                             {% endfor %}
 

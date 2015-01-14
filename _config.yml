@@ -4,7 +4,7 @@
 # Site settings
 title: The Hop Ice Cream Cafe
 email: hopicecreamcafe@yahoo.com
-description: "Scooping ice cream in Asheville, North Carolina since 1978.  The hop offers a wide variety of treats and also hosts fun events."
+description: "Scooping ice cream in Asheville, North Carolina since 1978.  The hop offers a wide variety of treats and also hosts fun events and parties."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -12,36 +12,14 @@ color:
   secondary: ee347f  
   secondary-dark: 333
 
-# Team names, titles and social links
-people:
-- name: The Hop Merrimon
-  pic: the-hop-merrimon
-  position:   Open Mon-Sat 11am-10pm, Sun 12-10pm.<br><a href="https://www.google.com/maps/place/640+Merrimon+Ave,+Asheville,+NC+28804/@35.620756,-82.555117,17z/data=!3m1!4b1!4m2!3m1!1s0x8859f4c9e9d9a551:0xa52f8483e9f84347" target="_blank">640 Merrimon Ave</a>. <a href="tel:+8282542224">828.254.2224.</a><br>Dairy &amp; Vegan Ice Cream and Sorbet, Specialty Desserts, Birthday Parties, Weekly Free Family Friendly Events, Bean Werks Coffee and Espresso, Free WiFi.
-  social:
-    - title: twitter
-      url: https://twitter.com/hopicecream 
-    - title: facebook
-      url: https://www.facebook.com/TheHopIceCreamCafe 
-    - title: instagram
-      url: http://instagram.com/hopicecream 
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
 
-- name: The Hop West
-  pic: the-hop-west 
-  position:   Open Daily 12-11pm.<br><a href="https://www.google.com/maps/place/721+Haywood+Rd,+Asheville,+NC+28806/@35.5776524,-82.5921362,17z/data=!3m1!4b1!4m2!3m1!1s0x88598ced2488cd61:0x70cc1cc7672aaa71" target="_blank">721 Haywood Rd</a>. <a href="tel:+8282525155">828.252.5155.</a><br>Dairy &amp; Vegan Ice Cream and Sorbet, Specialty Desserts, Birthday Parties, Weekly Free Family Friendly Events, Bean Werks Coffee and Espresso, Free WiFi.
-  social:
-    - title: twitter
-      url: https://twitter.com/thehopwest 
-    - title: facebook
-      url: https://twitter.com/thehopwest 
-    - title: instagram
-      url: http://instagram.com/thehopwest
-
-- name: The Hop Creamery
-  pic: the-hop-creamery 
-  position:   Tasting Room Open Fridays 6-9pm.<br><a href="https://www.google.com/maps/place/167+Haywood+Rd,+Asheville,+NC+28806/@35.5809,-82.573756,17z/data=!3m1!4b1!4m2!3m1!1s0x88598cb9c61de765:0xc50d805f767f14bf" target="_blank">167 Haywood Rd</a>. <a href="tel:+8282542224">828.254.2224.</a><br>Birthday Parties, Private Parties, Weekly “Tasting Days” featuring small batch Dairy & Vegan Ice Cream and Sorbet, Field Trips for after school programs, Monthly Tours.
-  social:
-    - title: twitter
-      url: https://twitter.com/hopicecreamery 
+# Build settings
+markdown: kramdown
+permalink: pretty
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -58,11 +36,3 @@ social:
   - title: facebook
     url: https://www.facebook.com/TheHopIceCreamCafe 
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
-
-# Build settings
-markdown: kramdown
-permalink: pretty
