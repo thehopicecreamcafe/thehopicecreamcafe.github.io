@@ -1,6 +1,3 @@
-#url: https://y7kim.github.io
-#baseurl: /agency-jekyll-theme/
-
 # Site settings
 title: The Hop Ice Cream Cafe
 email: hopicecreamcafe@yahoo.com
@@ -11,11 +8,6 @@ color:
   primary: ee347f
   secondary: ee347f  
   secondary-dark: 333
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
