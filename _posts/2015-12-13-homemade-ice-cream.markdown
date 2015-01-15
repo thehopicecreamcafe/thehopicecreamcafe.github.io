@@ -5,8 +5,9 @@ modal-id: Ice-cream
 thumbnail: ice-cream-thumbnail.jpg 
 alt: Homemade Ice Cream
 ---
+*Dairy/Vegan*
+
 ###By The Scoop
-*Dairy/Vegan*\\
 **Kiddie** $2.00/$2.10\\
 **1 Scoop** $3.00/$3.20\\
 **2 Scoop** $4.00/$4.20\\
@@ -28,5 +29,4 @@ alt: Homemade Ice Cream
 **Sprinkles** $.30\\
 **Toppings** $.75 - Butterscotch, Homemade Hot Fudge, Caramel, Homemade Chocolate Syrup, Peanuts, Oreo, Banana, Coconut, Cherries, Pecans, Pineapple, Reese’s, Butterfinger, Marshmallows, Wet Walnuts, Gummy Bears, Chocolate Chips, Strawberries.
 
-<a href="#menuCoffee" data-toggle="modal">Coffee Drinks and Treats</a>, <a href="#menuSpecialty-deserts" data-toggle="modal">Speciality Deserts</a>
-
+<a href="#menuCoffee" data-toggle="modal">Coffee Drinks and Treats</a>, <a href="#menuSpecialty-desserts" data-toggle="modal">Speciality Desserts</a>

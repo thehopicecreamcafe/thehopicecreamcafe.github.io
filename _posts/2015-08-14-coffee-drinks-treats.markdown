@@ -21,12 +21,12 @@ alt: Coffee
 **Appalacian Chai Latte** $2.75/$2.99/$3.30\\
 **Tea** $1.00/$1.25/$1.50\\
 **Soda & Ice Cream Float/Fizz** $4.20\\
-**Float** $4.20\\
-**Fizz** $4.20\\
 **Smoothies** $4.20\\
 **Blue Sky Soda** $2.00\\
 **Blue Moon Water** $2.00\\
 *$0.75 per extra shot*\\
 *$0.50 for Vegan Soy, Almond or Cocount Milk*\\
 *$0.50 for Flavor Syrup*\\
-*All espresso drinks served hot or iced*
+*All espresso drinks served hot or iced*\\
+
+<a href="#menuIce-cream" data-toggle="modal">Homemade Ice Cream</a>,    <a href="#menuSpecialty-desserts" data-toggle="modal">Speciality Desserts</a>
