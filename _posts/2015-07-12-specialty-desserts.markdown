@@ -13,7 +13,7 @@ alt: Specialty Items
 **10”** - Serves 12-15 $28/$31\\
 **1/4 Sheet** - Serves 15-20 $30/$33\\
 *Crust options include Crushed Cookies, Vanilla Cake or Chocolate Cake. Gluten Free and custom crusts also available upon request.*\\
-*For more Ice Cream Cake options and information call 828.254.2224*
+*For more Ice Cream Cake options and information <a href="tel:+8282542224">call 828.254.2224</a>*
 
 ###SPECIALTY MILKSHAKES $5.00/$5.60
 *Regular/Large*\\
@@ -29,4 +29,3 @@ alt: Specialty Items
 **German Chocolate Cake** - Chocolate Cake, 3 Scoops of Ice Cream, Homemade Chocolate Syrup, Coconut Flakes and Pecans\\
 *Each includes homemade Dairy or Vegan Whipped Cream and a Cherry.\\
 For Vegan Desserts add $0.50.*\\
-<a href="#menuCoffee" data-toggle="modal">Coffee Drinks and Treats</a>, <a href="#menuSpecialty-desserts" data-toggle="modal">Speciality Desserts</a>
