@@ -29,5 +29,4 @@ alt: Specialty Items
 **German Chocolate Cake** - Chocolate Cake, 3 Scoops of Ice Cream, Homemade Chocolate Syrup, Coconut Flakes and Pecans\\
 *Each includes homemade Dairy or Vegan Whipped Cream and a Cherry.\\
 For Vegan Desserts add $0.50.*\\
-
-<a href="#menuIce-cream" data-toggle="modal">Homemade Ice Cream</a>, <a href="#menuCoffee" data-toggle="modal">Coffee Drinks and Treats</a> 
+<a href="#menuCoffee" data-toggle="modal">Coffee Drinks and Treats</a>, <a href="#menuSpecialty-desserts" data-toggle="modal">Speciality Desserts</a>

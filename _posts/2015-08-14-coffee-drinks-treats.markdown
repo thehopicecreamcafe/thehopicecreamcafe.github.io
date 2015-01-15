@@ -29,4 +29,4 @@ alt: Coffee
 *$0.50 for Flavor Syrup*\\
 *All espresso drinks served hot or iced*\\
 
-<a href="#menuIce-cream" data-toggle="modal">Homemade Ice Cream</a>,    <a href="#menuSpecialty-desserts" data-toggle="modal">Speciality Desserts</a>
+<a href="#menuIce-cream" data-toggle="modal">Homemade Ice Cream</a>,  <a href="#menuSpecialty-desserts" data-toggle="modal">Speciality Desserts</a>
