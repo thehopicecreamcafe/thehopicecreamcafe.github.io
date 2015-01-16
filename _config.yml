@@ -29,3 +29,5 @@ social:
   - title: facebook
     url: https://www.facebook.com/TheHopIceCreamCafe 
 
+gems:
+  - jekyll-redirect-from
