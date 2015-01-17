@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/thehopicecreamcafe/thehopicecreamcafe.github.io",
   "devDependencies": {
-    "grunt-html-validation": "x"
+    "grunt-html-validation": "x",
+    "grunt-contrib-imagemin": "x"
   }
 }
