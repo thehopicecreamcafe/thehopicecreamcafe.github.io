@@ -1,0 +1,22 @@
+{
+  "name": "thehopicecreamcafe.github.io",
+  "version": "1.0.0",
+  "description": "The Hop's amazing website!",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thehopicecreamcafe/thehopicecreamcafe.github.io"
+  },
+  "author": "Ryan Barrington Cox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thehopicecreamcafe/thehopicecreamcafe.github.io/issues"
+  },
+  "homepage": "https://github.com/thehopicecreamcafe/thehopicecreamcafe.github.io",
+  "devDependencies": {
+    "grunt-html-validation": "x"
+  }
+}
