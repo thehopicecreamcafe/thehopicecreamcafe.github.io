@@ -27,4 +27,4 @@ alt: Coffee
 *$0.75 per extra shot*\\
 *$0.50 for Vegan Soy, Almond or Cocount Milk*\\
 *$0.50 for Flavor Syrup*\\
-*All espresso drinks served hot or iced*\\
+*All espresso drinks served hot or iced*
