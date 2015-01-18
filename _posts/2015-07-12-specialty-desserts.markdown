@@ -28,4 +28,4 @@ alt: Specialty Items
 **Big Banana** - Sliced Banana, 3 Scoops of Ice Cream and 3 Toppings\\
 **German Chocolate Cake** - Chocolate Cake, 3 Scoops of Ice Cream, Homemade Chocolate Syrup, Coconut Flakes and Pecans\\
 *Each includes homemade Dairy or Vegan Whipped Cream and a Cherry.\\
-For Vegan Desserts add $0.50.*\\
+For Vegan Desserts add $0.50.*
