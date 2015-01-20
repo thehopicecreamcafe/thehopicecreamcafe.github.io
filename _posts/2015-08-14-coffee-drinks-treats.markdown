@@ -13,12 +13,11 @@ alt: Coffee
 **Homemade Hot Chocolate** $2.00/$2.50/$3.00\\
 **Bean Werks French Roast Coffee** $1.75/$1.95/$2.25\\
 **Bean Werks Espresso** $1.00/$1.50\\
-**Espresso** $1.00/$1.50\\
 **Americano** $1.75/$1.95/$2.25\\
 **Latte** $2.75/$2.99/$3.30\\
 **Mocha** $3.15/$3.40/$3.70\\
 **Flavored Latte** $3.15/$3.40/$3.70\\
-**Appalacian Chai Latte** $2.75/$2.99/$3.30\\
+**AppalaChai Chai Latte** $2.75/$2.99/$3.30\\
 **Tea** $1.00/$1.25/$1.50\\
 **Soda & Ice Cream Float/Fizz** $4.20\\
 **Smoothies** $4.20\\
