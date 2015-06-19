@@ -15,14 +15,14 @@ alt: Specialty Items
 *Crust options include Crushed Cookies, Vanilla Cake or Chocolate Cake. Gluten Free and custom crusts also available upon request.*\\
 *For more Ice Cream Cake options and information call <a href="tel:+8282542224">828.254.2224</a>*
 
-###SPECIALTY MILKSHAKES $5.00/$5.60
+###SPECIALTY MILKSHAKES $5.50/$5.85
 *Regular/Large*\\
 **Jitterbug** - Any flavor Ice Cream with 1 or 2 Espresso Shots\\
 **Alligator** - Mint Ice Cream with our Homemade Hot Fudge\\
 **Carmanana** - Vanilla Bean Ice Cream with Banana and Caramel\\
 **Hopscotch** - Vanilla Bean Ice Cream with Butterscotch and Chocolate Chips
 
-###DESSERTS $5.60
+###DESSERTS $5.85
 **Brownie Delight** - Locally made Brownie, 2 Scoops Ice Cream, Homemade Chocolate Syrup and Peanuts\\
 **Hot Fudge Cake** - Chocolate Cake, 3 Scoops of Ice Cream and Homemade Hot Fudge\\
 **Big Banana** - Sliced Banana, 3 Scoops of Ice Cream and 3 Toppings\\
