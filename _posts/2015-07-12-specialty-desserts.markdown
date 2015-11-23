@@ -13,7 +13,7 @@ alt: Specialty Items
 **10”** - Serves 12-15 $30/$33\\
 **1/4 Sheet** - Serves 15-20 $33/$36\\
 *Crust options include Crushed Cookies, Vanilla Cake or Chocolate Cake. Gluten Free and custom crusts also available upon request.*\\
-*For more Ice Cream Cake options and information call <a href="tel:+8282542224">828.254.2224</a>*
+*For more Ice Cream Cake options and information call <a href="tel:18282542224">828.254.2224</a>*
 
 ###SPECIALTY MILKSHAKES $5.50/$5.85
 *Regular/Large*\\
