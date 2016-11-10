@@ -24,6 +24,6 @@ alt: Coffee
 **Blue Sky Soda** $2.00\\
 **Blue Moon Water** $2.00\\
 *$0.75 per extra shot*\\
-*$0.50 for Vegan Soy, Almond or Cocount Milk*\\
+*$0.50 for Vegan Almond or Cocount Milk*\\
 *$0.50 for Flavor Syrup*\\
 *All espresso drinks served hot or iced*
