@@ -27,4 +27,4 @@ alt: Homemade Ice Cream
 *Toppings $.80, Sprinkles $.30*\\
 **Includes homemade Dairy or Vegan Whipped Cream and Cherry.**\\
 **Sprinkles** $.30\\
-**Toppings** $.80 - Butterscotch, Homemade Hot Fudge, Caramel, Homemade Chocolate Syrup, Peanuts, Oreo, Banana, Coconut, Cherries, Pecans, Pineapple, Reese’s, Butterfinger, Marshmallows, Wet Walnuts, Gummy Bears, Chocolate Chips, Strawberries, Homemade Peanut Butter Sauce.
+**Toppings** $.80 - Butterscotch, Homemade Hot Fudge, Caramel, Homemade Chocolate Syrup, Peanuts, Oreo, Banana, Coconut, Cherries, Pecans, Pineapple, Reese’s, Butterfinger, Marshmallows, Wet Walnuts, Gummy Bears, Chocolate Chips, Strawberries, Homemade Peanut Butter Sauce..
