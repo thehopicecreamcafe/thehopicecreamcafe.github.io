@@ -18,5 +18,5 @@ modal-id: Birthday-parties
 **Package 2** - All features of Pkg 1 + Ice Cream Sundae Bar. $50 + $4.50 per person\\
 **Package 3** - All features of Pkg 2 + Invitations, Staff Host, Balloon Artist, and Face Painting. 10 or fewer participants $205 + $4.50 each additional participant\\
 **Package 4** - All features of Pkg 3 + A Second Staff Host, Games and Prizes. 10 or fewer participants. $240 + $5 each additional participant\\
-*Can substitute 1/4 Sheet Ice Cream Cake for Sundae Bar*
+*Can substitute 1/4 Sheet Ice Cream Cake for Sundae Bar*\\
 *Custom packages available*
