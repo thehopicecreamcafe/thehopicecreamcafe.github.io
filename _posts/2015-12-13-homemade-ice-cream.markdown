@@ -18,8 +18,8 @@ alt: Homemade Ice Cream
 *1/2 Gallon, 1 Gallon, 2.5 Gallon can be special ordered.*
           
 ### Milkshakes 
-**20oz Milkshake** $4.65/$5.50\\
-**24oz Milkshake** $5.50/$6.00
+**20oz Milkshake** $4.85/$5.70\\
+**24oz Milkshake** $5.70/$6.20
 
 ### Sundaes
 **1 Scoop 2 Toppings** $4.45/$4.65\\
