@@ -1,5 +1,5 @@
 ---
-title: Specialty Cakes
+title: Specialty Ice Cream Cakes
 layout: default
 modal-id: Specialty-deserts 
 thumbnail: specialty-items-thumbnail.jpg
