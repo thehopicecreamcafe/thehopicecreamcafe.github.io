@@ -21,7 +21,7 @@ alt: Coffee
 **Tea** $1.00/$1.25/$1.50\\
 **Soda & Ice Cream Float/Fizz** $4.20\\
 **Smoothies** $4.20\\
-**Blue Sky Soda** $2.00\\
+**Blue Sky\Oscar Blues Soda** $2.00\\
 **Blue Moon Water** $2.00\\
 *$0.75 per extra shot*\\
 *$0.50 for Vegan Almond or Cocount Milk*\\
