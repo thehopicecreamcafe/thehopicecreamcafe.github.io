@@ -8,7 +8,7 @@ alt: Homemade Ice Cream
 *Dairy/Vegan*
 
 ### By The Scoop
-*Hand-crafted Homemade Ice Cream!*
+*Hand-crafted Homemade Ice Cream!*\\
 **Kiddie** $2.30/$2.50\\
 **1 Scoop** $3.30/$3.50\\
 **2 Scoop** $4.30/$4.55\\
@@ -19,6 +19,7 @@ alt: Homemade Ice Cream
 *1/2 Gallon, 1 Gallon, 2.5 Gallon sizes available. Please call or email to order.*
 
 ### Milkshakes 
+*Any flavor of Ice Cream spun old-fashioned-style with whole milk. Coconut Milk or Almond Milk also available.*\\
 **20oz Milkshake** $4.85/$5.70\\
 **24oz Milkshake** $5.70/$6.20
 
@@ -40,5 +41,4 @@ alt: Homemade Ice Cream
 **Brownie Delight** - Homemade Fudge Brownie, 2 Scoops Ice Cream, Homemade Chocolate Syrup and Peanuts\\
 **Hot Fudge Cake** - Homemade Chocolate Fudge Cake, 3 Scoops of Ice Cream and Homemade Hot Fudge\\
 **Big Banana** - Sliced Banana, 3 Scoops of Ice Cream and 3 Toppings\\
-**German Chocolate Cake** - Chocolate Cake, 3 Scoops of Ice Cream, Homemade Chocolate Syrup, Coconut Flakes and Pecans\\
-*Each includes homemade Dairy or Vegan Whipped Cream and a Cherry.\\
+*Includes homemade Dairy or Vegan Whipped Cream and a Cherry.\\
