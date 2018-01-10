@@ -1,11 +1,12 @@
 ---
-title: Specialty Desserts
+title: Specialty Cakes
 layout: default
-modal-id: Specialty-desserts 
+modal-id: Specialty-cakes 
 thumbnail: specialty-items-thumbnail.jpg
 alt: Specialty Items 
 ---
 ### ICE CREAM CAKES
+*Specialty Ice Cream Cakes made to order!*\\
 *Dairy/Vegan*\\
 **4”** - Serves 1-2 $14/$8.50\\
 **8”** - Serves 8-10 $40/$27\\
@@ -14,19 +15,3 @@ alt: Specialty Items
 **1/4 Sheet** - Serves 15-20 $52/$36\\
 *Crust options include Crushed Cookies, Vanilla Cake or Chocolate Cake. Gluten Free and custom crusts also available upon request.*\\
 *For more Ice Cream Cake options and information call <a href="tel:18282542224">828.254.2224</a>*
-
-### SPECIALTY MILKSHAKES
-**20oz Milkshake** $5.85/$6.70\\
-**24oz Milkshake** $5.70/$6.20\\
-**Jitterbug** - Any flavor Ice Cream with 1 or 2 Espresso Shots\\
-**Alligator** - Mint Ice Cream with our Homemade Hot Fudge\\
-**Carmanana** - Vanilla Bean Ice Cream with Banana and Caramel\\
-**Hopscotch** - Vanilla Bean Ice Cream with Butterscotch and Chocolate Chips
-
-### DESSERTS $6.25
-**Brownie Delight** - Locally made Brownie, 2 Scoops Ice Cream, Homemade Chocolate Syrup and Peanuts\\
-**Hot Fudge Cake** - Chocolate Cake, 3 Scoops of Ice Cream and Homemade Hot Fudge\\
-**Big Banana** - Sliced Banana, 3 Scoops of Ice Cream and 3 Toppings\\
-**German Chocolate Cake** - Chocolate Cake, 3 Scoops of Ice Cream, Homemade Chocolate Syrup, Coconut Flakes and Pecans\\
-*Each includes homemade Dairy or Vegan Whipped Cream and a Cherry.\\
-For Vegan Desserts add $0.50.*
