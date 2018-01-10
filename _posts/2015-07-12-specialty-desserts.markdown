@@ -11,7 +11,7 @@ alt: Specialty Items
 **4”** - Serves 2-3 $14/$15.50\\
 **6”** - Serves 6-10 $33/$36\\
 **8”** - Serves 12-16 $40/$43\\
-**9”** - Serves 16-24 $45/$48\\
+**9”** - Serves 16-20 $45/$48\\
 **10”** - Serves 20-30 $50/$53\\
 **1/4 Sheet** - Serves 20-30 $52/$55\\
 *Crust options include Crushed Cookies, Vanilla Cake or Chocolate Cake. Gluten Free and custom crusts also available upon request.*\\
