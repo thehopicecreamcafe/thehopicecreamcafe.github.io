@@ -1,7 +1,7 @@
 ---
 title: Specialty Cakes
 layout: default
-modal-id: Specialty-cakes 
+modal-id: Specialty-desserts 
 thumbnail: specialty-items-thumbnail.jpg
 alt: Specialty Items 
 ---
