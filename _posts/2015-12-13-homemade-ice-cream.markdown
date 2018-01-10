@@ -8,6 +8,7 @@ alt: Homemade Ice Cream
 *Dairy/Vegan*
 
 ### By The Scoop
+*Hand-crafted Homemade Ice Cream!*
 **Kiddie** $2.30/$2.50\\
 **1 Scoop** $3.30/$3.50\\
 **2 Scoop** $4.30/$4.55\\
@@ -15,7 +16,7 @@ alt: Homemade Ice Cream
 **Quart** $11.50/$12.00\\
 **Homemade Waffle Cones** $0.80 extra\\
 **Gluten Free Cones** $0.50 extra\\
-*1/2 Gallon, 1 Gallon, 2.5 Gallon can be special ordered.*
+*1/2 Gallon, 1 Gallon, 2.5 Gallon sizes available. Please call or email to order.*
 
 ### Milkshakes 
 **20oz Milkshake** $4.85/$5.70\\
