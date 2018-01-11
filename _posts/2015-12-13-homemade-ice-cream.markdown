@@ -2,7 +2,7 @@
 title: Homemade Ice Cream
 layout: default
 modal-id: Ice-cream 
-thumbnail: Icecream2.jpg 
+thumbnail: Icecream.jpg 
 alt: Homemade Ice Cream
 ---
 *Dairy/Vegan*
