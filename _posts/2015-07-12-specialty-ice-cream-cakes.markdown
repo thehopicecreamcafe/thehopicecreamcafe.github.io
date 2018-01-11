@@ -2,7 +2,7 @@
 title: Specialty Ice Cream Cakes
 layout: default
 modal-id: Specialty-ice-cream-cakes
-thumbnail: specialty-items-thumbnail.jpg
+thumbnail: IMG_4513.JPG
 alt: Specialty Items 
 ---
 ### ICE CREAM CAKES
