@@ -1,7 +1,7 @@
 ---
 title: Specialty Ice Cream Cakes
 layout: default
-modal-id: Specialty-deserts 
+modal-id: Specialty-ice-cream-cakes
 thumbnail: specialty-items-thumbnail.jpg
 alt: Specialty Items 
 ---
