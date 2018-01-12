@@ -16,6 +16,7 @@ alt: Homemade Ice Cream
 **Quart** $11.50/$12.00\\
 **Homemade Waffle Cones** $0.80 extra\\
 **Gluten Free Cones** $0.50 extra\\
+*Toppings $.80 extra. Sprinkles are free\\
 <br>
 *1/2 Gallon, 1 Gallon, 2.5 Gallon sizes available. To order please call <a href="tel:18282542224">828.254.2224</a>.*
 
@@ -35,7 +36,7 @@ alt: Homemade Ice Cream
 *Includes homemade Dairy or Vegan Whipped Cream and Cherry.*\\
 **1 Scoop 2 Toppings** $4.45/$4.65\\
 **2 Scoop 3 Toppings** $5.75/$6.25\\
-**Toppings** $.80 - Butterscotch, Homemade Hot Fudge, Caramel, Homemade Chocolate Syrup, Peanuts, Oreo, Banana, Coconut, Cherries, Pecans, Pineapple, Reese’s, Butterfinger, Marshmallows, Wet Walnuts, Gummy Bears, Chocolate Chips, Strawberries, Homemade Peanut Butter Sauce. Sprinkles are Free!\\
+**Toppings** - Butterscotch, Homemade Hot Fudge, Caramel, Homemade Chocolate Syrup, Peanuts, Oreo, Banana, Coconut, Cherries, Pecans, Pineapple, Reese’s, Butterfinger, Marshmallows, Wet Walnuts, Gummy Bears, Chocolate Chips, Strawberries, Homemade Peanut Butter Sauce. Sprinkles are Free!\\
 *Additional Toppings $.80 extra*
 
 ### DESSERTS 
