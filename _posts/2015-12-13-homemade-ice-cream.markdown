@@ -41,4 +41,5 @@ alt: Homemade Ice Cream
 **Dairy/Vegan** $6.85/$8.35\\
 **Brownie Delight** - Homemade Brownie, 2 Scoops of Ice Cream, Peanuts and Homemade Chocolate Syrup\\
 **Hot Fudge Cake** - Homemade Chocolate Fudge Cake, 3 Scoops of Ice Cream and Homemade Hot Fudge\\
-**Big Banana** - Sliced Banana, 3 Scoops of Ice Cream and 3 Toppings
+**Big Banana** - Sliced Banana, 3 Scoops of Ice Cream and 3 Toppings\\
+*Additional Toppings $.80 extra*
