@@ -19,7 +19,7 @@ alt: Homemade Ice Cream
 *1/2 Gallon, 1 Gallon, 2.5 Gallon sizes available. To order please call <a href="tel:18282542224">828.254.2224</a>.*
 
 ### Milkshakes 
-*Any flavor of Ice Cream spun old-fashioned-style with whole milk. Coconut Milk or Almond Milk also available.*\\
+*Ice Cream spun old-fashioned-style with Whole Milk, Coconut Milk or Almond Milk.*\\
 **20oz Milkshake** $4.85/$5.70\\
 **24oz Milkshake** $5.70/$6.20
 
