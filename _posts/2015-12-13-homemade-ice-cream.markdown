@@ -16,7 +16,7 @@ alt: Homemade Ice Cream
 **Quart** $11.50/$12.00\\
 **Homemade Waffle Cones** $0.80 extra\\
 **Gluten Free Cones** $0.50 extra\\
-*1/2 Gallon, 1 Gallon, 2.5 Gallon sizes available. Please call or email to order.*
+*1/2 Gallon, 1 Gallon, 2.5 Gallon sizes available. To order please call <a href="tel:18282542224">828.254.2224</a>.*
 
 ### Milkshakes 
 *Any flavor of Ice Cream spun old-fashioned-style with whole milk. Coconut Milk or Almond Milk also available.*\\
