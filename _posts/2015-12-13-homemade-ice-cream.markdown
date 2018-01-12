@@ -5,10 +5,10 @@ modal-id: Ice-cream
 thumbnail: Icecream2.jpg 
 alt: Homemade Ice Cream
 ---
+*Hand-crafted Homemade 16% Butterfat Dairy Ice Cream and from-scratch Vegan Ice Cream!*\\
 *Dairy/Vegan*
 
 ### By The Scoop
-*Hand-crafted Homemade Ice Cream!*\\
 **Kiddie** $2.30/$2.50\\
 **1 Scoop** $3.30/$3.50\\
 **2 Scoop** $4.30/$4.55\\
