@@ -16,7 +16,7 @@ alt: Homemade Ice Cream
 **Quart** $11.50/$12.00\\
 **Homemade Waffle Cones** $0.80 extra\\
 **Gluten Free Cones** $0.50 extra\\
-*Toppings $.80 extra. Sprinkles are free*\\
+*Toppings $.80 extra. Sprinkles are free.*\\
 <br>
 *1/2 Gallon, 1 Gallon, 2.5 Gallon sizes available. To order please call <a href="tel:18282542224">828.254.2224</a>.*
 
