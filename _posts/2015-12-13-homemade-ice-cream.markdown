@@ -43,4 +43,4 @@ alt: Homemade Ice Cream
 **Brownie Delight** - Homemade Brownie, 2 Scoops of Ice Cream, Peanuts and Homemade Chocolate Syrup\\
 **Hot Fudge Cake** - Homemade Chocolate Fudge Cake, 3 Scoops of Ice Cream and Homemade Hot Fudge\\
 **Big Banana** - Sliced Banana, 3 Scoops of Ice Cream and 3 Toppings\\
-*Additional Toppings $.80 extra*
+*Additional Toppings also $.80 extra*
