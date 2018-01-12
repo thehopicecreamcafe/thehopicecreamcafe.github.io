@@ -25,7 +25,6 @@ alt: Homemade Ice Cream
 **24oz Milkshake** $5.70/$6.20
 
 ### SPECIALTY MILKSHAKES
-*Also spun with Whole Milk, Coconut Milk or Almond Milk.*\\
 **20oz/24oz** $5.85/$6.70\\
 **Jitterbug** - Any flavor Ice Cream with 1 or 2 Espresso Shots\\
 **Alligator** - Mint Ice Cream with our Homemade Hot Fudge\\
