@@ -33,7 +33,7 @@ alt: Homemade Ice Cream
 **1 Scoop 2 Toppings** $4.45/$4.65\\
 **2 Scoop 3 Toppings** $5.75/$6.25\\
 *Toppings $.80, Sprinkles $.30*\\
-**Includes homemade Dairy or Vegan Whipped Cream and Cherry.**\\
+*Includes homemade Dairy or Vegan Whipped Cream and Cherry.*\\
 **Toppings** $.80 - Butterscotch, Homemade Hot Fudge, Caramel, Homemade Chocolate Syrup, Peanuts, Oreo, Banana, Coconut, Cherries, Pecans, Pineapple, Reese’s, Butterfinger, Marshmallows, Wet Walnuts, Gummy Bears, Chocolate Chips, Strawberries, Homemade Peanut Butter Sauce. Sprinkles are Free!
 
 ### DESSERTS 
@@ -41,4 +41,4 @@ alt: Homemade Ice Cream
 **Brownie Delight** - Homemade Fudge Brownie, 2 Scoops Ice Cream, Homemade Chocolate Syrup and Peanuts\\
 **Hot Fudge Cake** - Homemade Chocolate Fudge Cake, 3 Scoops of Ice Cream and Homemade Hot Fudge\\
 **Big Banana** - Sliced Banana, 3 Scoops of Ice Cream and 3 Toppings\\
-*Includes homemade Dairy or Vegan Whipped Cream and a Cherry.\\
+*Includes homemade Dairy or Vegan Whipped Cream and a Cherry.*
