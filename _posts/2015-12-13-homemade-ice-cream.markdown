@@ -18,7 +18,7 @@ alt: Homemade Ice Cream
 **Gluten Free Cones** $0.50 extra\\
 *Toppings $.80 extra. Sprinkles are free.*\\
 <br>
-*1/2 Gallon, 1 Gallon, 2.5 Gallon sizes available. To order please call <a href="tel:18282542224">828.254.2224</a>.*
+*1/2 Gallon, 1 Gallon, 2.5 Gallon sizes available. To order those please call <a href="tel:18282542224">828.254.2224</a>.*
 
 ### Milkshakes 
 *Ice Cream spun old-fashioned-style with Whole Milk, Coconut Milk or Almond Milk.*\\
