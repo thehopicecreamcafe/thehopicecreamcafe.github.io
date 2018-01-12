@@ -5,7 +5,7 @@ modal-id: Ice-cream
 thumbnail: Icecream2.jpg 
 alt: Homemade Ice Cream
 ---
-*Hand-crafted Homemade 16% Butterfat Dairy Ice Cream and from-scratch Vegan Ice Cream!*\\
+*Hand-crafted Homemade Ice Cream!*\\
 *Dairy/Vegan*
 
 ### By The Scoop
