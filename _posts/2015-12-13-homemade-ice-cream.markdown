@@ -39,6 +39,6 @@ alt: Homemade Ice Cream
 ### DESSERTS 
 *Includes homemade Dairy or Vegan Whipped Cream and a Cherry.*\\
 **Dairy/Vegan** $6.85/$8.35\\
-**Brownie Delight** - Homemade Fudge Brownie, 2 Scoops Ice Cream, Homemade Chocolate Syrup and Peanuts\\
+**Brownie Delight** - Homemade Brownie, 2 Scoops of Ice Cream, Peanuts and Homemade Chocolate Syrup\\
 **Hot Fudge Cake** - Homemade Chocolate Fudge Cake, 3 Scoops of Ice Cream and Homemade Hot Fudge\\
 **Big Banana** - Sliced Banana, 3 Scoops of Ice Cream and 3 Toppings
