@@ -2,7 +2,7 @@
 title: Coffee Drinks and Treats
 layout: default
 modal-id: Coffee 
-thumbnail: Coffee1.jpg
+thumbnail: coffee-thumbnail.jpg
 alt: Coffee
 ---
 *Single/Double or 12oz/16oz/20oz*\\
