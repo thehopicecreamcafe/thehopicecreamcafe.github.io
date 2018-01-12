@@ -18,4 +18,4 @@ alt: Specialty Items
 *For more Ice Cream Cake options and information call <a href="tel:18282542224">828.254.2224</a>*
 
 ### FOR INFORMATION ABOUT WEDDING ICE CREAM CAKES 
-*Contact Ashley at <a href="mailto:hopicecreamcafe@yahoo.com">hopicecreamcafe@yahoo.com</a>
+*Contact Ashley at <a href="mailto:hopicecreamcafe@yahoo.com">hopicecreamcafe@yahoo.com</a>.*
