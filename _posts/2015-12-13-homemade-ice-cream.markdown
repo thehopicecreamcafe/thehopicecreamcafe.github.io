@@ -29,7 +29,8 @@ alt: Homemade Ice Cream
 **20oz/24oz** $5.85/$6.70\\
 **Jitterbug** - Any flavor Ice Cream with 1 or 2 Espresso Shots\\
 **Alligator** - Mint Ice Cream with our Homemade Hot Fudge\\
-**Chocolate PB Pie** - Chocolate Ice Cream with Peanut Butter and Oreos
+**Chocolate PB Pie** - Chocolate Ice Cream with Peanut Butter and Oreos\\
+*Coconut or Almond Milk $.50 extra*
 
 ### Create-A-Sundae
 *Includes homemade Dairy or Vegan Whipped Cream and Cherry.*\\
