@@ -8,7 +8,7 @@ alt: Coffee
 *Single/Double or 12oz/16oz/20oz*\\
 **Espresso Float** $3.50/$3.95\\
 **Hot Chocolate Float** $3.50/$3.95/$4.45\\
-**Jitterbug Milkshake** $5.50/$5.85\\
+**Jitterbug Milkshake** $5.85/$6.70\\
 **The Hop Chiller** $4.05/$4.65\\
 **Homemade Hot Chocolate** $2.00/$2.50/$3.00\\
 **Bean Werks French Roast Coffee** $1.75/$1.95/$2.25\\
