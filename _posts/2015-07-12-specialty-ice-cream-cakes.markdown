@@ -5,7 +5,7 @@ modal-id: Specialty-ice-cream-cakes
 thumbnail: IMG_4513.JPG
 alt: Specialty Items 
 ---
-### ICE CREAM CAKES
+
 *Specialty homemade Ice Cream Cakes made to order! Please allow 72 hours for orders to be completed.*\\
 *Dairy/Vegan*\\
 **4”** - Serves 2-3 $14/$15.50\\
