@@ -9,7 +9,7 @@ alt: Specialty Items
 *Specialty homemade Ice Cream Cakes made to order! Please allow 72 hours for orders to be completed.*\\
 *Dairy/Vegan*\\
 **4”** - Serves 2-3 $14/$15.50\\
-**6”** - Serves 6-10 $33/$36\\
+**6”** - Serves 6-10 $30/$33\\
 **8”** - Serves 12-16 $40/$43\\
 **9”** - Serves 16-20 $45/$48\\
 **10”** - Serves 20-30 $50/$53\\
