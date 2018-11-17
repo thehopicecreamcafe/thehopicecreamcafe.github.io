@@ -22,6 +22,7 @@ alt: Homemade Ice Cream
 
 ### Milkshakes 
 *Ice Cream spun old-fashioned-style with Whole Milk, Coconut Milk or Almond Milk.*\\
+**16oz Milkshake** $3.88/$4.56\\
 **20oz Milkshake** $4.85/$5.70\\
 **24oz Milkshake** $5.70/$6.20
 
