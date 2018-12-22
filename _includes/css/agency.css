@@ -13,7 +13,7 @@ body {
 .googleCalendar{
   position: relative;
   height: 0;
-  width: 50%;
+  width: 100%;
   padding-bottom: 50%;
 }
 
