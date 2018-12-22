@@ -8,12 +8,14 @@
     <div class="googleCalendar">
       <iframe src="https://calendar.google.com/calendar/embed?src=en.usa%23holiday%40group.v.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
      </div>
-
-  <form method="POST" action="https://formspree.io/ryanbarrington@gmail.com">
-    <input type="email" name="email" placeholder="Your email">
-    <textarea name="message" placeholder="Test Message"></textarea>
-    <button type="submit">Send Test</button>
-  </form>
+    <div class="bookingForm">
+      <form method="POST" action="https://formspree.io/ryanbarrington@gmail.com">
+        <input type="email" name="email" placeholder="Your email">
+        <textarea name="message" placeholder="Test Message"></textarea>
+        <textarea name="another-message" placeholder="Another text message area..."></textarea>
+        <button type="submit">Send Test</button>
+      </form>
+    </div>
       
     {% include footer.html %}
     {% include js.html %}
