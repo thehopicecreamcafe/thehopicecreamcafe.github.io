@@ -3,20 +3,17 @@
 
   {% include head.html %}
 
+    <body>
+    
+    <div class="googleCalendar">
+      <iframe src="https://calendar.google.com/calendar/embed?src=en.usa%23holiday%40group.v.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+     </div>
 
-    <body id="page-top" class="index">
-
-    {% include header.html %}
-      
     <form action="https://formspree.io/ryanbarrington@gmail.com" method="POST">
       <input type="text" name="name">
       <input type="email" name="_replyto">
       <input type="submit" value="Send">
     </form>
-    
-    <hr>
-      
-    <iframe src="https://calendar.google.com/calendar/embed?src=en.usa%23holiday%40group.v.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
       
     {% include footer.html %}
     {% include js.html %}
