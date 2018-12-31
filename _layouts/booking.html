@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <style type="text/css">
+  <style>
 	.googleCalendar{
 	  position: relative;
 	  height: 0;
@@ -27,6 +27,7 @@
 <body>
 
 <div class="container">
+
   <h2>Hop Party Reservation Form</h2>
 
 	<hr/>
@@ -39,18 +40,18 @@
 
 		<hr/>
 
-  	<h3>Package 1</h2>
+  	<h3>Package 1</h3>
 		<p>
 		  Reserved space for 2 hours, Decorations (streamers, balloons, tablecloths). May bring outside food and drink (no alcohol or outside ice cream). Deposit due within 3 days of booking to reserve space. Package does not include ice cream, but can reserve bulk ice cream or it is available for purchase by the item the day of.
 North $50 Creamery $75
 		</p>
 
-  	<h3>Package 2</h2>
+  	<h3>Package 2</h3>
 		<p>
 	Reserved space for 2 hours, Decorations (streamers, balloons, tablecloths), Build-your-own sundae bar OR any size ice cream cake (price varies). May bring outside food and drink (no alcohol or outside ice cream). Deposit due within 3 days of booking to reserve space.
 North $50 + $4.50 per person for sundaes Creamery $75 + $4.50 per person for sundaes. Cake priced at retail cost
 		</p>
-  	<h3>Package 3</h2>
+  	<h3>Package 3</h3>
 		<p>
 			Reserved space for 2 hours, Decorations (streamers, balloons, tablecloths), Build-your-own sundae bar OR an 8” ice cream cake (larger cake for extra cost), Balloon artist for 1 hour, Face painting by staff host.. Pricing is for up to 10 children, $4.50 for each additional child. May bring outside food and drink (no alcohol or outside ice cream). Deposit due within 3 days of booking to reserve space.
 			North $205 Creamery $230
@@ -67,28 +68,28 @@ North $50 + $4.50 per person for sundaes Creamery $75 + $4.50 per person for sun
 
   <form method="POST" action="https://formspree.io/ryanbarrington@gmail.com">
     <div class="form-group">
-      <label for="">Your Name</label>
-      <input type="name" class="form-control" id="name" placeholder="Your name" name="name">
+      <label for="name">Your Name</label>
+      <input type="text" class="form-control" id="name" placeholder="Your name" name="Name">
     </div>
     <div class="form-group">
       <label for="email">Email</label>
-      <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
+      <input type="email" class="form-control" id="email" placeholder="Enter email" name="Email">
     </div>
     <div class="form-group">
-      <label for="">Phone Number</label>
-      <input type="phone-number" class="form-control" id="phone-number" placeholder="Enter phone number" name="phone-number">
+      <label for="phone">Phone Number</label>
+      <input type="tel" class="form-control" id="phone" placeholder="Enter phone number" name="Phone">
     </div>
     <div class="form-group">
-      <label for="">Date of Party</label>
-      <input type="childs-name-age" class="form-control" id="childs-name-age" placeholder="Enter date" name="childs-name-age">
+      <label for="date">Date of Party</label>
+      <input type="text" class="form-control" id="date" placeholder="Enter date" name="Date">
     </div>
     <div class="form-group">
-      <label for="">Time of Party</label>
-      <input type="childs-name-age" class="form-control" id="childs-name-age" placeholder="Enter two-hour block of time 11am-7pm" name="childs-name-age">
+      <label for="time">Time of Party</label>
+      <input type="text" class="form-control" id="time" placeholder="Enter two-hour block of time 11am-7pm" name="Time">
     </div>
 		<div class="form-group">
-			<label for="party-package">Party Package Requested (select one)</label>
-			<select class="form-control" id="party-package">
+			<label for="package">Party Package Requested (select one)</label>
+			<select class="form-control" id="package" name="Package">
 				<option>Package 1</option>
 				<option>Package 2</option>
 				<option>Package 3</option>
@@ -96,22 +97,22 @@ North $50 + $4.50 per person for sundaes Creamery $75 + $4.50 per person for sun
 		</div>
  		<div class="form-group">
 			<label for="location">Location Preferred</label>
-			<select class="form-control" id="location">
+			<select class="form-control" id="location" name="Location">
 				<option>The Hop Ice Creamery</option>
-				<option>iThe Hop on Merrimon Ave.</option>
+				<option>The Hop on Merrimon Ave.</option>
 			</select>
 		</div>
    <div class="form-group">
-      <label for="">Child's Name & Age</label>
-      <input type="childs-name-age" class="form-control" id="childs-name-age" placeholder="Enter child's name and age" name="childs-name-age">
+      <label for="child-name-age">Child's Name and Age</label>
+      <input type="text" class="form-control" id="child-name-age" placeholder="Enter child's name and age" name="Child's name and age">
     </div>
     <div class="form-group">
-      <label for="">Number of Guests Expected</label>
-      <input type="number-guests" class="form-control" id="number-guests" placeholder="Enter number of guests expected" name="number-guests">
+      <label for="number-guests">Number of Guests Expected</label>
+      <input type="number" class="form-control" id="number-guests" placeholder="Enter number of guests expected" name="Number of guests expected">
     </div>
     <div class="form-group">
       <label for="special-requests">Special Requests? (colors or dietary restrictions)</label>
-      <textarea type="special-requests" class="form-control" id="special-requests" placeholder="Enter special requests" name="special-requests">
+      <textarea class="form-control" id="special-requests" placeholder="Enter special requests" name="Special	requests">
       </textarea>
     </div>
     <button type="submit" class="btn btn-default">Submit</button>
