@@ -6,7 +6,7 @@ thumbnail: IMG_4513.JPG
 alt: Specialty Items 
 ---
 
-*Specialty homemade Ice Cream Cakes made to order! Please allow 72 hours for orders to be completed.*\\
+*Specialty homemade Ice Cream Cakes made to order! Please allow 7 days for orders to be completed. For cakes under 7 days please call The Hop on Merrimon for available options.*\\
 *Dairy/Vegan*\\
 **4”** - Serves 2-3 $14/$15.50\\
 **6”** - Serves 6-10 $30/$33\\
