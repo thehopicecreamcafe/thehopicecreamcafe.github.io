@@ -4,7 +4,7 @@ layout: default
 modal-id: Birthday-parties
 ---
 **Special Occasion Ice Cream related Space Reservations!**\\
-*For additional details please email <a href="mailto:hopparties@gmail.com">hopparties@gmail.com</a>*.
+*Two weeks needed for garaunteed reservations. For additional details please email <a href="mailto:hopparties@gmail.com">hopparties@gmail.com</a>*.
     
 ### The Hop Ice Creamery at 167 Haywood Rd
 **Package 1** - 2 Hour Space Reservation and Decorations. $75\\
