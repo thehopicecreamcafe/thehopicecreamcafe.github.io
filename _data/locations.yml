@@ -1,6 +1,6 @@
 - name: The Hop Ice Cream Cafe 
   pic: renovated
-  hours: Open 2-5pm M-Th, 2-8pm F-Su.
+  hours: Open 2-8pm Daily.
   directions: <a href="https://www.google.com/maps/place/640+Merrimon+Ave,+Asheville,+NC+28804/@35.620756,-82.555117,17z/data=!3m1!4b1!4m2!3m1!1s0x8859f4c9e9d9a551:0xa52f8483e9f84347" target="_blank">640 Merrimon Ave</a>. <a href="tel:18282542224">828.254.2224.</a>
   description: Dairy &amp; Vegan Ice Cream and Sorbet, Specialty Desserts, Birthday Parties, Weekly Free Family Friendly Events, PennyCup Coffee and Espresso, Free WiFi.
   social:
@@ -13,7 +13,7 @@
 
 - name: The Hop West
   pic: the-hop-west 
-  hours:  CLOSED DUE TO COVID-19.
+  hours:  Open 2-5pm Daily.
   directions: <a href="https://www.google.com/maps/place/721+Haywood+Rd,+Asheville,+NC+28806/@35.5776524,-82.5921362,17z/data=!3m1!4b1!4m2!3m1!1s0x88598ced2488cd61:0x70cc1cc7672aaa71" target="_blank">721 Haywood Rd</a>. <a href="tel:18282525155">828.252.5155.</a>
   description: Dairy &amp; Vegan Ice Cream and Sorbet, Specialty Desserts, Free Family Friendly Events, PennyCup Espresso, Free WiFi.<br>
   social:
@@ -26,7 +26,7 @@
 
 - name: The Hop Black Mountain
   pic: blackmountain225 
-  hours:   Open Weekends 2-5pm.
+  hours:   Open 2-5pm Daily.
   directions: <a href="https://www.google.com/maps/place/114+Cherry+St,+Black+Mountain,+NC+28711/@35.6164681,-82.3229077,17z/data=!3m1!4b1!4m5!3m4!1s0x8859f9232844d44b:0x6cc939c5ee6cd12e!8m2!3d35.6164638!4d-82.320719" target="_blank">114 Cherry St</a>.  <a href="tel:18282525155">828.357.5461.</a> 
   description: Homemade Ice Cream now in Downtown Black Mountain! Located at 114 Cherry St next to My Father's Pizza. 
   social:
