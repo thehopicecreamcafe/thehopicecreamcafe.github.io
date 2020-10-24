@@ -3,7 +3,7 @@ title: #AshevlleStrong Series
 layout: default
 modal-id: Coffee 
 link: https://my-site-100004-108923.square.site/product/-ashevillestrong-series/218?cs=true
-thumbnail: ashevillestrong.jgp
+thumbnail: ashevillestrong.jpg
 alt: Coffee
 ---
 *Single/Double or 12oz/16oz/20oz*\\
