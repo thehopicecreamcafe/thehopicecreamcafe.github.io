@@ -2,6 +2,7 @@
 title: Ashley’s Scoop Series
 layout: default
 modal-id: Ice-cream 
+link: https://my-site-100004-108923.square.site/product/-new-ashley-s-scoop-series/226
 thumbnail: AshleysScoopSeries.jpg
 alt: Homemade Ice Cream
 ---
