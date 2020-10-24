@@ -2,6 +2,7 @@
 title: Specialty Ice Cream Cakes
 layout: default
 modal-id: Specialty-ice-cream-cakes
+link: https://my-site-100004-108923.square.site/product/-new-ashley-s-scoop-series/226
 thumbnail: IMG_4513.JPG
 alt: Specialty Items 
 ---
