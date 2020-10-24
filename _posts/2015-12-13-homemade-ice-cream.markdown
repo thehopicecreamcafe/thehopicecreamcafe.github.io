@@ -2,7 +2,7 @@
 title: Ashley’s Scoop Series
 layout: default
 modal-id: Ice-cream 
-thumbnail: Icecream2.jpg 
+thumbnail: AshleysScoopSeries.jpg
 alt: Homemade Ice Cream
 ---
 *Hand-crafted Homemade Ice Cream!*\\
