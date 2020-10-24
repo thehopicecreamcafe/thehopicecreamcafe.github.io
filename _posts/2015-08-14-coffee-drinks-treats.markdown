@@ -1,9 +1,9 @@
 ---
-title: Coffee Drinks and Treats
+title: #AshevlleStrong Series
 layout: default
 modal-id: Coffee 
 link: https://my-site-100004-108923.square.site/product/-new-ashley-s-scoop-series/226
-thumbnail: Coffee2.JPG
+thumbnail: ashevillestrong.jgp
 alt: Coffee
 ---
 *Single/Double or 12oz/16oz/20oz*\\
