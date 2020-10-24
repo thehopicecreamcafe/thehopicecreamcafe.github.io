@@ -1,5 +1,5 @@
 ---
-title: AshevlleStrong Series
+title: AshevilleStrong Series
 layout: default
 modal-id: Coffee 
 link: https://my-site-100004-108923.square.site/product/-ashevillestrong-series/218?cs=true
