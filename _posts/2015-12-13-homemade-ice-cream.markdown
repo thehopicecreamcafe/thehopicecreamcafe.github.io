@@ -1,5 +1,5 @@
 ---
-title: Homemade Ice Cream
+title: Ashley’s Scoop Series
 layout: default
 modal-id: Ice-cream 
 thumbnail: Icecream2.jpg 
