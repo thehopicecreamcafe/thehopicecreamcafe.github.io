@@ -1,10 +1,10 @@
 ---
-title: #AshevlleStrong Series
+title: AshevlleStrong Series
 layout: default
 modal-id: Coffee 
 link: https://my-site-100004-108923.square.site/product/-ashevillestrong-series/218?cs=true
 thumbnail: ashevillestrong.jpg
-alt: #AshevilleStrong Series
+alt: AshevilleStrong Series
 ---
 *Single/Double or 12oz/16oz/20oz*\\
 **Espresso Float** $3.50/$3.95\\
