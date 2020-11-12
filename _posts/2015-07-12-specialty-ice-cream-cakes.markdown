@@ -3,7 +3,7 @@ title: CBD Ice Cream Series
 layout: default
 modal-id: Specialty-ice-cream-cakes
 link: https://my-site-100004-108923.square.site/product/cbd-ice-cream-series/233?cs=true
-thumbnail: cbdseries.jpg
+thumbnail: ashevillestrong.jpg
 alt: Specialty Items 
 ---
 
