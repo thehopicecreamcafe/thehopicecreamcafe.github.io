@@ -1,9 +1,9 @@
 ---
-title: CBD Ice Cream Series
+title: Asheville Strong Series
 layout: default
 modal-id: Specialty-ice-cream-cakes
-link: https://my-site-100004-108923.square.site/product/cbd-ice-cream-series/233?cs=true
-thumbnail: cbdseries400.jpg
+link: https://my-site-100004-108923.square.site/product/-ashevillestrong-series/218?cs=true
+thumbnail: ashevillestrong.jpg
 alt: Specialty Items 
 ---
 
