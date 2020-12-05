@@ -1,10 +1,10 @@
 ---
-title: Ashley’s Scoop Series
+title: Ice Cream Yule Logs
 layout: default
 modal-id: Ice-cream 
-link: https://my-site-100004-108923.square.site/product/-new-ashley-s-scoop-series/226
-thumbnail: AshleysScoopSeries.jpg
-alt: Homemade Ice Cream
+link: https://my-site-100004-108923.square.site/product/ice-cream-yule-logs/237?cs=true
+thumbnail: yulelogs400.jpg
+alt: Ice Cream Yule Logs
 ---
 *Hand-crafted Homemade Ice Cream!*\\
 *Dairy/Vegan*
