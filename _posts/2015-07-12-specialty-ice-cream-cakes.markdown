@@ -3,7 +3,7 @@ title: Ready-Made Yule Logs
 layout: default
 modal-id: Specialty-ice-cream-cakes
 link: https://my-site-100004-108923.square.site/product/ready-made-yule-logs/242?cs=true
-thumbnail: ashevillestrong.jpg
+thumbnail: readymade400.jpg
 alt: Ready-Made Yule Logs
 ---
 
