@@ -1,10 +1,10 @@
 ---
-title: Vegan Ice Cream Yule Logs
+title: Asheville Strong Series
 layout: default
 modal-id: Coffee 
-link: https://my-site-100004-108923.square.site/product/vegan-ice-cream-yule-logs/238?cs=true
-thumbnail: veganyulelog400.jpg
-alt: Vegan Ice Cream Yule Logs
+link: https://my-site-100004-108923.square.site/product/-ashevillestrong-series/218?cs=true
+thumbnail: ashevillestrong.jpg
+alt: Asheville Strong Series
 ---
 *Single/Double or 12oz/16oz/20oz*\\
 **Espresso Float** $3.50/$3.95\\
