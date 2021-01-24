@@ -1,10 +1,10 @@
 ---
-title: Asheville Strong Series
+title: Vegan Heart-Shaped Cakes
 layout: default
 modal-id: Coffee 
-link: https://my-site-100004-108923.square.site/product/-ashevillestrong-series/218?cs=true
-thumbnail: ashevillestrong.jpg
-alt: Asheville Strong Series
+link: https://my-site-100004-108923.square.site/product/vegan-heart-shaped-cakes/255?cs=true&cst=custom
+thumbnail: veganheart400.jpg
+alt: Vegan Heart-Shaped Cakes
 ---
 *Single/Double or 12oz/16oz/20oz*\\
 **Espresso Float** $3.50/$3.95\\
