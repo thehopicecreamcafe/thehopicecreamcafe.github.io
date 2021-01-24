@@ -1,10 +1,10 @@
 ---
-title: Ready-Made Yule Logs
+title: Girl Scout Cookie Ice Cream
 layout: default
 modal-id: Specialty-ice-cream-cakes
-link: https://my-site-100004-108923.square.site/product/ready-made-yule-logs/242?cs=true
-thumbnail: readymade400.jpg
-alt: Ready-Made Yule Logs
+link: https://my-site-100004-108923.square.site/product/girl-scout-cookie-ice-cream/256?cs=true&cst=custom
+thumbnail: gs400.jpg
+alt: Girl Scout Cookie Ice Cream
 ---
 
 *Please allow 7 days for cakes to be completed. All orders can now be placed via our <a href="https://my-site-100004-108923.square.site/" target="_blank">Online Store</a> for pickup Tuesdays 2-8pm or Saturdays 12-6pm at The Creamery (167 Haywood Rd).*\\
