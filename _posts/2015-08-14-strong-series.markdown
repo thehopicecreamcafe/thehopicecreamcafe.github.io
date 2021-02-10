@@ -3,7 +3,7 @@ title: Asheville Strong Series
 layout: default
 modal-id: Coffee 
 link: https://my-site-100004-108923.square.site/product/-ashevillestrong-series/218?cs=true&cst=custom
-thumbnail: veganheart400.jpg
+thumbnail: ashevillestrong.jpg
 alt: Asheville Strong Series
 ---
 *Single/Double or 12oz/16oz/20oz*\\
