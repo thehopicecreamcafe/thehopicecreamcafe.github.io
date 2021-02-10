@@ -1,10 +1,10 @@
 ---
-title: Heart-Shaped Cakes
+title: Ashley's Scoop Series
 layout: default
 modal-id: Ice-cream 
-link: https://my-site-100004-108923.square.site/product/heart-shaped-cakes/254?cs=true&cst=custom
-thumbnail: dairyheart400.jpg
-alt: Heart-Shaped Cakes
+link: https://my-site-100004-108923.square.site/product/ashley-s-scoop-series/226?cs=true&cst=custom
+thumbnail: AshleysScoopSeries.jpg
+alt: Ashley's Scoop Series
 ---
 *Hand-crafted Homemade Ice Cream!*\\
 *Dairy/Vegan*
