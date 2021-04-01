@@ -3,7 +3,7 @@ title: New Adult "Happiness" Shirt Pre-Order
 layout: default
 modal-id: Specialty-ice-cream-cakes
 link: https://my-site-100004-108923.square.site/product/adult-happiness-shirt-pre-order/267?cs=true&cst=custom
-thumbnail: Lilac400.jpg
+thumbnail: gs400.jpg
 alt: New Adult "Happiness" Shirt Pre-Order
 ---
 
