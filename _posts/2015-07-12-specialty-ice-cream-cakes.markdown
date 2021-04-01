@@ -1,10 +1,10 @@
 ---
-title: Girl Scout Cookie Ice Cream
+title: New Adult "Happiness" Shirt Pre-Order
 layout: default
 modal-id: Specialty-ice-cream-cakes
-link: https://my-site-100004-108923.square.site/product/girl-scout-cookie-ice-cream/256?cs=true&cst=custom
+link: https://my-site-100004-108923.square.site/product/adult-happiness-shirt-pre-order/267?cs=true&cst=custom
 thumbnail: gs400.jpg
-alt: Girl Scout Cookie Ice Cream
+alt: New Adult "Happiness" Shirt Pre-Order
 ---
 
 *Please allow 7 days for cakes to be completed. All orders can now be placed via our <a href="https://my-site-100004-108923.square.site/" target="_blank">Online Store</a> for pickup Tuesdays 2-8pm or Saturdays 12-6pm at The Creamery (167 Haywood Rd).*\\
