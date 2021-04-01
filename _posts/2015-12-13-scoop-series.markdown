@@ -3,7 +3,7 @@ title: Youth "Happiness" Shirt Pre-Order
 layout: default
 modal-id: Ice-cream 
 link: https://my-site-100004-108923.square.site/product/youth-happiness-shirt-pre-order/265?cs=true&cst=custom
-thumbnail: AshleysScoopSeries.jpg
+thumbnail: Pristine400.jpg
 alt: Youth "Happiness" Shirt Pre-Order
 ---
 *Hand-crafted Homemade Ice Cream!*\\
