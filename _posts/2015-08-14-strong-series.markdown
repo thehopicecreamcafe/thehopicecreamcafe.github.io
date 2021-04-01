@@ -3,7 +3,7 @@ title: Adult "Hop Logo" Shirt Pre-Order (2 Colors)
 layout: default
 modal-id: Coffee 
 link: https://my-site-100004-108923.square.site/product/adult-hop-logo-shirts-pre-order/266?cs=true&cst=custom
-thumbnail: ashevillestrong.jpg
+thumbnail: DeepTeal400.jpg
 alt: Adult "Hop Logo" Shirt Pre-Order
 ---
 *Single/Double or 12oz/16oz/20oz*\\
