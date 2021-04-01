@@ -1,10 +1,10 @@
 ---
-title: Asheville Strong Series
+title: Adult "Hop Logo" Shirt Pre-Order (2 Colors)
 layout: default
 modal-id: Coffee 
-link: https://my-site-100004-108923.square.site/product/-ashevillestrong-series/218?cs=true&cst=custom
+link: https://my-site-100004-108923.square.site/product/adult-hop-logo-shirts-pre-order/266?cs=true&cst=custom
 thumbnail: ashevillestrong.jpg
-alt: Asheville Strong Series
+alt: Adult "Hop Logo" Shirt Pre-Order
 ---
 *Single/Double or 12oz/16oz/20oz*\\
 **Espresso Float** $3.50/$3.95\\
